@@ -1,0 +1,16 @@
+the bullets for each list item are now empty, and the list is slightly indented
+the emptied bullets are now moved towards the edge of the page
+the bullets for the list items are now turned into black squares
+the list items no longer have any bullets, or squares, but just plain lines of text
+there's now a red border around the list stretching to the edge of the page on both sides
+the bullets are cut-off about half way and everything was moved too far to the left of the page
+the text and bullets have moved in towards the center of the page under the second "e" in "exercise"
+the bullets have been erased and the text moved all the way to the margin on the left
+every list item ,not including bullets, has a dashed black border around it.
+there is now more space between each list item, vertically.
+the list items have the same border as the previous step, but now with more space between each list item
+each list item looks like a white sideways "Z" inside of a black box
+similar to the step above, except there is white space between each list item's "black box" and more space off of the margins of the webpage.
+the list has become a scroll-able black box, with the only word appearing as "list" in a small white box in the left hand corner, with other random small white boxes in the bottom left corner and the bottom-center
+same as step 13, except there are no elements and the entire list is a block element
+each list item is in a white rectangle, centered inside of a black square, with item 4 on the same line as item 3
